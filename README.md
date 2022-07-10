@@ -1,4 +1,4 @@
-### Oi! Eu sou Leandro Silva
+### Olá! Me chamo Leandro, e atualmente sou programador Front-End e UI/UX Designer.
 
 <div>
   <a href="https://www.linkedin.com/in/leandro-d-silva/">
@@ -6,16 +6,16 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandrosilva3&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
 
-
+### Tenho conhecimento em:
 <div style="display: inline_block"><br>
   <img align="center" alt="Leandro-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Leandro-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Leandro-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Leandro-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="right" alt="Leandro-Silva" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/995764432279961676/995765774134296606/download20220700154614.png?width=365&height=365">
+  <img align="center" alt="Leandro-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
-  
 ##
  
 <div>
